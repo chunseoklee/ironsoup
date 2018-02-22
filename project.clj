@@ -1,4 +1,5 @@
 (defproject ironsoup "0.1.0-SNAPSHOT"
+  :license "MIT License"
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [org.clojure/clojurescript "1.9.908"]
                  [reagent "0.7.0"]
